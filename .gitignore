@@ -6,3 +6,4 @@ jars/
 *.class
 *.jar
 .java-version
+.env
